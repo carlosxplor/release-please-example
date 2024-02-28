@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/carlosxplor/release-please-example/compare/v2.1.0...v2.2.0) (2024-02-28)
+
+
+### Features
+
+* **example:** agregando feature 5 ([acf48f5](https://github.com/carlosxplor/release-please-example/commit/acf48f5907c4346770193b630bc013750bcb5a5f))
+
 ## [2.1.0](https://github.com/carlosxplor/release-please-example/compare/v2.0.0...v2.1.0) (2024-02-28)
 
 
