@@ -19,3 +19,4 @@
 ## Feature 6.1
 
 ## Estoy agregando una nueva funcionalidad para login con biometria
+## Estoy agregando una nueva funcionalidad para login con biometria 2
