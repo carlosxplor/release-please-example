@@ -3,7 +3,7 @@ name: release-please-example-push
 on:
   push:
     branches:
-      - release
+      - release-desactivado
 
 permissions:
   contents: write
