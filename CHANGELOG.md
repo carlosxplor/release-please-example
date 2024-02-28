@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/carlosxplor/release-please-example/compare/v2.0.0...v2.1.0) (2024-02-28)
+
+
+### Features
+
+* **example:** agregando feature 4 ([3836c09](https://github.com/carlosxplor/release-please-example/commit/3836c096fdf38aebdeb365eb889c924070f7fbc2))
+
+
+### Bug Fixes
+
+* **example:** agregando fix 2 ([f3a9f81](https://github.com/carlosxplor/release-please-example/commit/f3a9f819e36bca706fa441c276b5512ba9334753))
+
 ## [2.0.0](https://github.com/carlosxplor/release-please-example/compare/v1.0.0...v2.0.0) (2024-02-28)
 
 
