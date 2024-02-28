@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.0.0](https://github.com/carlosxplor/release-please-example/compare/v1.0.0...v2.0.0) (2024-02-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* **example:** este es un feature con breaking change para efectos de ejemplo
+
+### Features
+
+* **example:** agregando feature 3 ([f2ab48c](https://github.com/carlosxplor/release-please-example/commit/f2ab48cb353e9d86260cb485ec0f9134da3daf7c))
+* **example:** agregando feature 3.1 ([cd3cfda](https://github.com/carlosxplor/release-please-example/commit/cd3cfdaf3b20611268451d465eb89abf9382d7e5))
+* **example:** agregando feature 3.2 ([33e587d](https://github.com/carlosxplor/release-please-example/commit/33e587d44d114ae16b98da0a721e19dd91b612ff))
+* **example:** agregando nuevo feature 3.3 ([5d7e650](https://github.com/carlosxplor/release-please-example/commit/5d7e6506428c9effe5e1da01f8504c19b3e85e13))
+
 ## 1.0.0 (2024-02-28)
 
 
