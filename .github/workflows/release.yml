@@ -1,6 +1,9 @@
 name: release-please-example
 
 on:
+  push:
+    branches:
+      - release
   pull_request:
     branches:
       - master
