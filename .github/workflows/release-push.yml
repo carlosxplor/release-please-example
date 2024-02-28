@@ -1,12 +1,9 @@
-name: release-please-example-pr
+name: release-please-example-push
 
 on:
-  pull_request:
+  push:
     branches:
-      - master
-    types:
-      - opened
-      - closed
+      - release
 
 permissions:
   contents: write
@@ -14,7 +11,6 @@ permissions:
 
 jobs:
   release:
-    if: ${{ github.event_name == 'pull_request' && startsWith(github.head_ref, 'release') }}
     runs-on: ubuntu-latest
     steps:
       - uses: google-github-actions/release-please-action@v4
