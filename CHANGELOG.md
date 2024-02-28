@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.0](https://github.com/carlosxplor/release-please-example/compare/v2.4.0...v2.5.0) (2024-02-28)
+
+
+### Features
+
+* **autentication:** integracion con plataformas biometricas ([48154bb](https://github.com/carlosxplor/release-please-example/commit/48154bb1e3ab19ad255b3f8c32facd284255c323))
+
 ## [2.4.0](https://github.com/carlosxplor/release-please-example/compare/v2.3.0...v2.4.0) (2024-02-28)
 
 
