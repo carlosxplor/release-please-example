@@ -1,5 +1,20 @@
 # Changelog
 
+## [3.0.0](https://github.com/carlosxplor/release-please-example/compare/v2.5.0...v3.0.0) (2024-02-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* **example:** lorem ipsum breaking change 2
+* **example:** lorem ipsum breaking change
+
+### Features
+
+* **example:** agregando feature 8 ([36942d0](https://github.com/carlosxplor/release-please-example/commit/36942d04f87a1ee34a281bacb838f9ac39677cb9))
+* **example:** nuevo breaking change 2 ([cbb2268](https://github.com/carlosxplor/release-please-example/commit/cbb2268b40dd8350eb8e246ef8d26a123086a5d6))
+* **example:** nuevo feature 7 ([7fa89b6](https://github.com/carlosxplor/release-please-example/commit/7fa89b6f86d13b7d28854848953ee2c84a1c16bc))
+* **example:** nuevo feature 8.1 ([6e99c97](https://github.com/carlosxplor/release-please-example/commit/6e99c977c1622a21ef000c83dee6212911b34367))
+
 ## [2.5.0](https://github.com/carlosxplor/release-please-example/compare/v2.4.0...v2.5.0) (2024-02-28)
 
 
