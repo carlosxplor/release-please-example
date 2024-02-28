@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0](https://github.com/carlosxplor/release-please-example/compare/v2.2.0...v2.3.0) (2024-02-28)
+
+
+### Features
+
+* **example:** agregando feature 6 ([d0a90a5](https://github.com/carlosxplor/release-please-example/commit/d0a90a5c0d829c554a612c48a74133b2908a4371))
+
 ## [2.2.0](https://github.com/carlosxplor/release-please-example/compare/v2.1.0...v2.2.0) (2024-02-28)
 
 
