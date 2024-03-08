@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.0](https://github.com/carlosxplor/release-please-example/compare/v3.1.0...v3.2.0) (2024-03-08)
+
+
+### Features
+
+* feature 9 ([d45bc24](https://github.com/carlosxplor/release-please-example/commit/d45bc24c1a20b92b08fbc6e64be3185142fce43c))
+
 ## [3.1.0](https://github.com/carlosxplor/release-please-example/compare/v3.0.0...v3.1.0) (2024-03-08)
 
 
