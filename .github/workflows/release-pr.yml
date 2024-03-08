@@ -1,6 +1,7 @@
-name: release-please-example-pr
+name: release-please-example-manual-pr
 
 on:
+  workflow_dispatch:
   pull_request:
     branches:
       - master
@@ -14,10 +15,11 @@ permissions:
 
 jobs:
   release:
-    if: ${{ startsWith(github.head_ref, 'release') }}
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'pull_request' && startsWith(github.head_ref, 'release')) }}
     runs-on: ubuntu-latest
     steps:
       - uses: google-github-actions/release-please-action@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN  }}
           release-type: node
+          target-branch: master
