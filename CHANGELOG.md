@@ -1,5 +1,17 @@
 # Changelog
 
+## [4.0.0](https://github.com/carlosxplor/release-please-example/compare/v3.5.0...v4.0.0) (2024-03-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* consta de 4 funcionalidades realmente
+
+### Features
+
+* agregando feature 15 ([854fe39](https://github.com/carlosxplor/release-please-example/commit/854fe39184d8dab6d883b3161dda8bde94b34ff6))
+* features 15 ([855e0f8](https://github.com/carlosxplor/release-please-example/commit/855e0f826e4340eab2b5ed2d3c718f5fd88c8695))
+
 ## [3.5.0](https://github.com/carlosxplor/release-please-example/compare/v3.4.0...v3.5.0) (2024-03-08)
 
 
