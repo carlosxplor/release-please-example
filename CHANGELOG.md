@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.5.0](https://github.com/carlosxplor/release-please-example/compare/v3.4.0...v3.5.0) (2024-03-08)
+
+
+### Features
+
+* agregando feature 14 ([0c7a354](https://github.com/carlosxplor/release-please-example/commit/0c7a354fbd6246241e27d1cb7cd862ff5e04320d))
+
 ## [3.4.0](https://github.com/carlosxplor/release-please-example/compare/v3.3.0...v3.4.0) (2024-03-08)
 
 
